@@ -1,0 +1,8 @@
+name: enzyme-kinetics-notebooks
+dependencies:
+  - python
+  - pip:
+    - numpy
+    - matplotlib
+    - scipy
+    - pandas
